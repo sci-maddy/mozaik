@@ -1,4 +1,4 @@
-Mozaik
+Mozaiky
 ------
 
 Computational neurosceince is shifting towards more heterogeneous models of neuronal circuits, and application of complex experimental protocols. This escalation of complexity is not sufficiently met by existing tool chains. **Mozaik** is a workflow system for spiking neuronal network simulations written in Python that integrates model, experiment and stimulation specification, simulation execution, data storage, data analysis and visualization into a single automated workflow. This way, **Mozaik** increases the productivity of running virtual experiments on complex heterogenous spiking neuronal networks. 
